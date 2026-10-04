@@ -149,6 +149,10 @@ Designed for deeper customer behavior analysis.
   <img src="saas dasboard.png" width="500" alt="Dashboard Screenshot">
 </p>
 
+<p align="center">
+  <img src="saas dashboard page 2.png" width="500" alt="Dashboard Screenshot">
+</p>
+
 
 ---
 ## Connect
